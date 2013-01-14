@@ -1,0 +1,9 @@
+#header .label {-fx-font-weight:bold; -fx-font-size:12px;}
+#dottedLine .label {-fx-font-weight:bold; -fx-font-size:12px;}
+#thoughtarea {-fx-background-color: transparent; -fx-text-fill: black;}
+#thoughtarea .scroll-bar:vertical .thumb {-fx-background-color: #b398aa;}
+#thoughtarea .scroll-bar:vertical .track {-fx-background-color: transparent;}
+#thoughtarea .scroll-bar:vertical .increment-button { -fx-background-color: transparent; }
+#thoughtarea .scroll-bar:vertical .decrement-button { -fx-background-color: transparent; }
+#boldStyle {-fx-font-weight: bold; -fx-font-style: italic; -fx-text-fill: black;}
+#italicStyle {-fx-font-weight: bold; -fx-font-style: italic; -fx-text-fill: black;}
