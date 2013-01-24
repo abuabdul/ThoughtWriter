@@ -89,7 +89,7 @@ object ThoughtWriter extends JFXApp {
   stage.initStyle(StageStyle.TRANSPARENT)
   // Add icon to the ThoughtWriter
   stage.getIcons().add(new Image(LOGO))
-  //To resize the window
+  //To move or drag the window
   stage.addEventHandler(MouseEvent.MOUSE_DRAGGED, new EventHandler[MouseEvent]() {
     override def handle(me: MouseEvent) {
       stage.x = me.getScreenX()
