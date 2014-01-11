@@ -14,7 +14,7 @@
 * limitations under the License.
 *
 */
-package org.abu.thought.writer
+package com.abuabdul.thought.writer
 
 import java.awt.AWTException
 import java.awt.MenuItem
