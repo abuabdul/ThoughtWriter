@@ -1,6 +1,6 @@
 <h1 id="thoughtwriter"><a href="#thoughtwriter" class="anchor">ThoughtWriter</a></h1>
 
-<p>ThoughtWriter is a small application developed on top of ScalaFX!! This is an inspiration application from ScalaFX project. This application is benefited from <a href="https://github.com/scalafx/Scalafx-ensemble">ScalaFX Ensemble</a> project.</p>
+<p>ThoughtWriter is a small application developed on top of ScalaFX!! This is an inspiration project from ScalaFX development. This application is mostly benefited from <a href="https://github.com/scalafx/Scalafx-ensemble">ScalaFX Ensemble</a> project which demonstrates the ScalaFX api through demos with code samples. Developed with scalafx-1.0-snapshot, this can be improved with stable release of ScalaFX api in future.</p>
 
 <h2 id="features"><a href="#features" class="anchor">Features</a></h2>
 
@@ -50,4 +50,7 @@ You may obtain a copy of the License at</p>
 <p> http://www.apache.org/licenses/LICENSE-2.0</p>
 
 <p>Unless required by applicable law or agreed to in writing, software
-distrib
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</p>
